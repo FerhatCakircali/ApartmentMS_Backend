@@ -1,11 +1,14 @@
 1 - PostgreSQL'i kurun.
 
-2 - PostgreSQL bilgileri şu şekildedir:
+2 - ApartmentMS_Backend klasöründe ".env" dosyası açın ve DB bilgilerini giri. Örnek şu şekildedir:
 
+FLASK_ENV=development
+# İlgili PostgreSQL bilgileri değiştirebilir.
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=12345
+DB_NAME=dbApartmentMS # Belirlemek istediğiniz veritabanı ismi
 
 
 3 - Daha sonra klasörde bulunan "entrypoint.sh" dosyasını açın 
