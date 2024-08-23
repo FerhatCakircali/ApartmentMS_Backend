@@ -1,12 +1,12 @@
 1 - PostgreSQL'i kurun.
 
-2 - PostgreSQL'i kurduktan sonra,
+2 - PostgreSQL bilgileri şu şekildedir:
 
 DB_HOST=localhost
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=12345
-olacak şekilde kurun.
+
 
 3 - Daha sonra klasörde bulunan "entrypoint.sh" dosyasını açın 
 ve host ve port'u belirlediğiniz şekilde düzenleyin.
