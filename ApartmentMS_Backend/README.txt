@@ -17,5 +17,6 @@ ve host ve port'u belirlediğiniz şekilde düzenleyin.
 4 - "entrypoint.sh" dosyayı çalıştırın. Gerekli paketler kurulup veritabanı ve tablolar oluşacaktır.
 Ardından flask app, run olacaktır.
 
-5- ApartmentMS_Frontend klasörünü açın. Gerekli diğer bilgiler oradaki README dosyasında yazacaktır.
+5- ApartmentMS_Frontend projesini indirin - > https://github.com/FerhatCakircali/ApartmentMS_Frontend
+6- ApartmentMS_Frontend klasörünü açın. Gerekli diğer bilgiler oradaki README dosyasında yazacaktır.
 
